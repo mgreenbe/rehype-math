@@ -29,5 +29,9 @@
   "bugs": {
     "url": "https://github.com/mgreenbe/rehype-math/issues"
   },
-  "homepage": "https://github.com/mgreenbe/rehype-math#readme"
+  "homepage": "https://github.com/mgreenbe/rehype-math#readme",
+  "dependencies": {
+    "hastscript": "^6.0.0",
+    "unist-util-visit-parents": "^3.1.0"
+  }
 }
