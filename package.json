@@ -21,7 +21,10 @@
     "js",
     "javascript"
   ],
-  "author": "Matthew Greenberg",
+  "author": {
+    "name": "Matthew Greenberg",
+    "email": "mgreenbe@outlook.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mgreenbe/rehype-math/issues"
