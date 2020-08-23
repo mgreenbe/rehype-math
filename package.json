@@ -1,0 +1,30 @@
+{
+  "name": "rehype-math",
+  "version": "0.1.0",
+  "description": "rehype-math is to rehype as remark-math is to remark.",
+  "main": "rehype-math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgreenbe/rehype-math.git"
+  },
+  "keywords": [
+    "rehype",
+    "unified",
+    "unist",
+    "latex",
+    "katex",
+    "html",
+    "plugin",
+    "js",
+    "javascript"
+  ],
+  "author": "Matthew Greenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgreenbe/rehype-math/issues"
+  },
+  "homepage": "https://github.com/mgreenbe/rehype-math#readme"
+}
