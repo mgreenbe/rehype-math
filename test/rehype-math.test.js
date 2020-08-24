@@ -1,8 +1,6 @@
 let unified = require("unified");
 let parse = require("rehype-parse");
-let vfile = require("vfile");
 let math = require("../rehype-math.js");
-let is = require("unist-util-is");
 
 let htmls = [
   `<!DOCTYPE html>

@@ -1,6 +1,6 @@
 {
   "name": "rehype-math",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "rehype-math is to rehype as remark-math is to remark.",
   "main": "rehype-math.js",
   "scripts": {
