@@ -216,7 +216,6 @@ test("escaped dollar signs inside inline math", () => {
   let transformer = unified().use(math);
   let hast = parser.parse("$\\$1.00, \\$2.00$");
   transformedHast = transformer.runSync(hast);
-  console.log(JSON.stringify(transformedHast, null, 2));
   expect(transformedHast).toMatchObject({
     type: "root",
     children: [
